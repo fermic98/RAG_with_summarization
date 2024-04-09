@@ -1,8 +1,16 @@
-# RAG_with_summarization
-GOAL
-Try to understand the level of understanding of a Cobol program reachable with summarization techniques
+# GenAI : generating functional doc for COBOL program
 
-TODO
-1) Map Reduce 
-2) Refine
-3) Complex rag architecure with several layer of code analysis
+## Challanges :
+- Cobol program size – 70 000 tokens
+- Text is code in Cobol language
+- Model's understanding of the code flow
+- Missing business references within the code
+
+
+### Cobol program size – 70 000 tokens
+
+### Text is code in Cobol language
+
+### Model's understanding of the code flow
+
+### Missing business references within the code
