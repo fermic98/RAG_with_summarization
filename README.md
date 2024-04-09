@@ -7,7 +7,7 @@
 - Missing business references within the code
 
 
-### Cobol program size – 70 000 tokens
+### Cobol program size
 
 ### Text is code in Cobol language
 
